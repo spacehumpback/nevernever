@@ -1,0 +1,6 @@
+[submodule "neverend/themes/solar-theme-hugo"]
+	path = neverend/themes/solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "neverland/themes/solar-theme-hugo"]
+	path = neverland/themes/solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
